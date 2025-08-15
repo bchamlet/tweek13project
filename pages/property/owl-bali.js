@@ -1,4 +1,4 @@
-import Layout from "../../components/Layout";
+import Layout from "../../components/layout";
 import { useSegment } from "../../lib/segment";
 
 export default function OwlBali() {
