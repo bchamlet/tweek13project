@@ -1,4 +1,4 @@
-import Layout from "../components/Layout";
+import Layout from "components/Layout.js";
 import HeroImage from "../components/HeroImage";
 import SearchBar from "../components/SearchBar";
 import { useSegment } from "../lib/segment";
