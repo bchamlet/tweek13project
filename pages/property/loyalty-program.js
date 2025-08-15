@@ -1,4 +1,4 @@
-import Layout from "/components/Layout.js";
+import Layout from "/components/layout.js";
 import { useSegment } from "/lib/segment";
 
 export default function LoyaltyProgram() {

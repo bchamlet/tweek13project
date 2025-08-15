@@ -1,5 +1,5 @@
-import Layout from "/components/Layout";
-import { useSegment } from "../lib/segment";
+import Layout from "/components/layout";
+import { useSegment } from "/lib/segment";
 import { useRouter } from "next/router";
 
 const properties = [

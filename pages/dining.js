@@ -1,5 +1,5 @@
-import Layout from "/components/Layout.js";
-import { useSegment } from "../lib/segment";
+import Layout from "/components/layout.js";
+import { useSegment } from "/lib/segment";
 
 export default function Dining() {
   useSegment("Dining Page");

@@ -1,5 +1,5 @@
-import Layout from "../../components/layout";
-import { useSegment } from "../../lib/segment";
+import Layout from "/components/layout";
+import { useSegment } from "/lib/segment";
 
 export default function OwlAuckland() {
   useSegment("Owl Auckland Property Page");
