@@ -7,7 +7,7 @@ const navLinks = [
   { href: "/search", label: "Search" },
   { href: "/rooms-suites", label: "Rooms & Suites" },
   { href: "/dining", label: "Dining" },
-  { href: "/loyalty-program", label: "Loyalty Program" },
+  { href: "/property/loyalty-program", label: "Loyalty Program" },
 ];
 
 export default function Layout({ children }) {

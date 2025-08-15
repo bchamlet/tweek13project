@@ -1,4 +1,4 @@
-import Layout from "../components/Layout";
+import Layout from "/components/Layout";
 import { useSegment } from "../lib/segment";
 import { useRouter } from "next/router";
 
